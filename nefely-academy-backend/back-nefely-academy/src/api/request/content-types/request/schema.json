@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "requests",
+  "info": {
+    "singularName": "request",
+    "pluralName": "requests",
+    "displayName": "Request"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Number": {
+      "type": "string"
+    }
+  }
+}
